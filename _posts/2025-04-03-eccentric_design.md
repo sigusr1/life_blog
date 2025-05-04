@@ -17,7 +17,7 @@ tags: [冷酸灵, 爱奇艺]
 大早上的，起床气还没褪去，先转6~8次打开盖子，挤出牙膏再转6~8次拧上盖子，你说让人冒火不冒火👿
 
 
-![冷酸灵牙膏](https://github.com/sigusr1/blog_assets/blob/master/2025-04-03-eccentric_design/toothpaste.jpg?raw=true)
+![冷酸灵牙膏](/2025-04-03-eccentric_design/toothpaste.jpg?raw=true)
 
 
 ## 2. 爱奇艺
@@ -30,5 +30,5 @@ tags: [冷酸灵, 爱奇艺]
 
 另外，下图右侧字体被截断后的半拉子显示效果，也给人一种做事不用心的感觉。
 
-![爱奇艺](https://github.com/sigusr1/blog_assets/blob/master/2025-04-03-eccentric_design/iqiyi.jpg?raw=true)
+![爱奇艺](/2025-04-03-eccentric_design/iqiyi.jpg?raw=true)
 
