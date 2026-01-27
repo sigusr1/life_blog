@@ -18,16 +18,16 @@ tags: [生活, 故乡]
 近十多年来，数以万计的村落在城镇化过程中消失。现在，霍桥基本上也走到了它生命的尽头，不知道还能不能撑到2020年底。谨以此纪念我那即将消逝的故乡，山东省菏泽市鄄城县红船镇霍桥村。
 
 **桥：**  
-![桥](/2020-05-10-my_home_town/bridge.jpg?raw=true)  
+![桥](/assets/images/2020-05-10-my_home_town/bridge.jpg)  
 
 **村南头：**  
-![村南头](/2020-05-10-my_home_town/south.jpg?raw=true)  
+![村南头](/assets/images/2020-05-10-my_home_town/south.jpg)  
 
 **村北头：**  
-![村北头](/2020-05-10-my_home_town/north.jpg?raw=true)  
+![村北头](/assets/images/2020-05-10-my_home_town/north.jpg)  
 
 **街里：**  
-![街里](/2020-05-10-my_home_town/center.jpg?raw=true)  
+![街里](/assets/images/2020-05-10-my_home_town/center.jpg)  
 
 **家前沙土地：**  
-![沙土地](/2020-05-10-my_home_town/former_orchard.jpg?raw=true)  
+![沙土地](/assets/images/2020-05-10-my_home_town/former_orchard.jpg)  

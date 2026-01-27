@@ -23,7 +23,7 @@ tags: [杭州银行, 中国电信]
 这是个很典型的例子，把功能从好用改成难用。真不知道产品经理是咋想的，好歹加一行**优惠后应还**也行啊！
 
 
-![杭州银行](/2025-05-19-eccentric_design_2/hangzhou_bank.jpg)
+![杭州银行](/assets/images/2025-05-19-eccentric_design_2/hangzhou_bank.jpg)
 
 
 ## 2. 中国电信
@@ -36,5 +36,5 @@ tags: [杭州银行, 中国电信]
 
 真是反人类的设计，和上面杭州银行的例子如出一辙。
 
-![中国电信](/2025-05-19-eccentric_design_2/china_tele.jpg)
+![中国电信](/assets/images/2025-05-19-eccentric_design_2/china_tele.jpg)
 
