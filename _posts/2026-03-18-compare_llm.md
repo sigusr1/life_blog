@@ -13,14 +13,17 @@ tags: [AI]
 ## 豆包
 
 豆包干净利落给出正确答案，并且在集体照中圈了出来:
+
 ![豆包](/assets/images/2026-03-18-compare_llm/doubao.jpg)
 
 ## 元宝
 元宝(DeppSeek模型)啰里啰嗦给出了方法论，最后给了个模糊答案：
+
 ![元宝](/assets/images/2026-03-18-compare_llm/yuanbao.jpg)
 
 ## 千问
 千问一顿胡说八道后给出了错误答案：
+
 ![千问](/assets/images/2026-03-18-compare_llm/qianwen.jpg)
 
 ------------------------End:更多内容，请关注我的公众号`coderhuolife`------------------------
